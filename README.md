@@ -62,13 +62,11 @@ Make sure you have the following installed:
 
 ## Results
 
-The performance of different models is compared using validation scores and leaderboard scores. The following graph summarizes the results:
-
-![Model Comparison](path_to_graph_image.png)
+The performance of different models is compared using validation scores and leaderboard scores. I settled on the final model being a Random Forest Classifier with tuned hyperparameters using GridSearch. The mean accuracy of this model was 81%.
 
 ## Conclusion
 
-This project demonstrates the process of building and evaluating different machine learning models for loan classification. The Random Forest and XGBoost models showed promising results in terms of accuracy and ROC-AUC scores.
+This project demonstrates the process of building and evaluating different regression and machine learning models for loan classification. The Random Forest and XGBoost models showed promising results in terms of accuracy and ROC-AUC scores.
 
 ## License
 
