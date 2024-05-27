@@ -38,6 +38,7 @@ Make sure you have the following installed:
     pip install pandas
     pip install seaborn
     pip install scikit-learn
+    pip install xgboost
     ```
 
 ### Running the Jupyter Notebook
