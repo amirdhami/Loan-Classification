@@ -35,7 +35,8 @@ Make sure you have the following installed:
 2. Install the required packages:
 
     ```bash
-    pip install -r requirements.txt
+    pip install pandas
+    
     ```
 
 ### Running the Jupyter Notebook
