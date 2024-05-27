@@ -37,6 +37,7 @@ Make sure you have the following installed:
     ```bash
     pip install pandas
     pip install seaborn
+    pip install scikit-learn
     ```
 
 ### Running the Jupyter Notebook
