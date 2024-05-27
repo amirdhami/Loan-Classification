@@ -36,7 +36,7 @@ Make sure you have the following installed:
 
     ```bash
     pip install pandas
-    
+    pip install seaborn
     ```
 
 ### Running the Jupyter Notebook
