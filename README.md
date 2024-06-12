@@ -70,12 +70,3 @@ The performance of different models is compared using validation scores and lead
 ## Conclusion
 
 This project demonstrates the process of building and evaluating different regression and machine learning models for loan classification. The Random Forest and XGBoost models showed promising results in terms of accuracy and ROC-AUC scores.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Kaggle](https://www.kaggle.com/) for providing the dataset.
-- [Scikit-learn](https://scikit-learn.org/) for the machine learning tools and libraries.
