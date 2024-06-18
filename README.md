@@ -21,7 +21,6 @@ Make sure you have the following installed:
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python packages (listed in `requirements.txt`)
 
 ### Installing
 
