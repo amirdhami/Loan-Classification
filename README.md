@@ -56,7 +56,7 @@ Make sure you have the following installed:
 
 2. **Model Training**: Different machine learning models (e.g., Logistic Regression, Decision Tree, Random Forest, XGBoost) are trained on the training dataset.
 
-3. **Model Validation**: The models are validated using cross-validation techniques, and performance metrics such as accuracy, ROC-AUC scores are calculated.
+3. **Model Validation**: The models are validated using cross-validation techniques, and performance metrics such as accuracy and ROC-AUC scores are calculated.
 
 4. **Model Comparison**: The performance of different models is compared, and the best-performing model is selected.
 
